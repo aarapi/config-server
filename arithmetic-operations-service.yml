@@ -1,5 +1,2 @@
 my:
-  string: string_value
-  map:
-    name: name_value
-    age: age_value
+  operation: +
